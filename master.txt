@@ -1,5 +1,7 @@
 This is my first file...
 
+
 Making some changes...
 
 This is after git --reset soft <commit number>
+
